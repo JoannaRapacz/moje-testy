@@ -1,2 +1,3 @@
-dowolna linikja tekstuX
+Dowolna linikja tekstuX
 i jeszcze jedna
+
