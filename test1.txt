@@ -2,5 +2,5 @@
 -jest fajnie
 -troche ogarniam
 -ale jeszcze duzo cwiczen
- 
+-to bedzie do usuniecia 
 
